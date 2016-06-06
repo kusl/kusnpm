@@ -1,0 +1,22 @@
+{
+  "name": "kus",
+  "version": "1.0.0",
+  "description": "this application will get you kus objects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusl/kusnpm.git"
+  },
+  "keywords": [
+    "kus"
+  ],
+  "author": "Kushal <kushaldeveloper@gmail.com> (https://keybase.io/kus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusl/kusnpm/issues"
+  },
+  "homepage": "https://github.com/kusl/kusnpm#readme"
+}
